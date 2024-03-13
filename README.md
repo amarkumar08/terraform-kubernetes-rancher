@@ -20,6 +20,7 @@ Features
  | :-----:                       |         :---         |
  | **2.7.0**          |    **1.23,1.24**       |
  | **2.7.2**          |    **1.23,1.24,1.25,1.26**      |
+ | **2.8.2**          |    **1.23,1.24,1.25,1.26,1.27**      |
 
 ## Important Notes:
 This module is compatible with EKS, AKS & GKE which is great news for users deploying the module on an AWS, Azure & GCP cloud. Review the module's documentation, meet specific configuration requirements, and test thoroughly after deployment to ensure everything works as expected.
